@@ -26,7 +26,8 @@ SugarProxy 糖糖代理是小黑兔软件开发，注意这只是小黑兔软件
 # 我的主页
 
 [小黑兔官网](https://www.xiaoheitu.cn/)
-[肥羊会飞正在创作黑兔经典魔兽助手 | 爱发电 (afdian.net)](https://afdian.net/a/wowheitu)
+
+[请我喝咖啡](https://afdian.net/a/wowheitu)
 
 
 ## 下载
