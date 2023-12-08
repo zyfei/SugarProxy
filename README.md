@@ -14,6 +14,7 @@ SugarProxy 糖糖代理是小黑兔软件开发，注意这只是小黑兔软件
 # 启动参数
 
 -AccountDataDir=AccountData文件夹的位置，路径不包含AccountData文件夹，默认是当前目录
+
 -BNetPort=启动端口，默认是2229
 
 
